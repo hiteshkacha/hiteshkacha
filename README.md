@@ -1,26 +1,22 @@
 <div align="center">
 
-<br>
-
-# HITESH KACHA
-
-### `FULL STACK SOFTWARE ENGINEER`
-
-**Crafting modern web experiences with code, design & curiosity.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:1c1c1c&text=HITESH%20KACHA&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=FULL%20STACK%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=16&descColor=aaaaaa" width="100%"/>
 
 <br>
 
 <a href="https://github.com/hiteshkacha">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=ffffff"/>
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/hitesh-kacha/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=ffffff"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=hiteshkacha&label=VISITORS&color=000000&style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences.;JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Node.js+%7C+Laravel+%7C+PostgreSQL;Always+learning.+Always+building." />
 
 <br><br>
 
@@ -30,54 +26,18 @@
 
 <div align="center">
 
-## `01 — ABOUT`
-
-</div>
-
-```text
-I turn ideas into functional digital products.
-
-Full-stack developer focused on modern JavaScript,
-clean architecture, thoughtful interfaces and
-building things that actually ship.
-
-Currently deepening my craft across JavaScript,
-TypeScript, React, Next.js, Node.js and PostgreSQL.
-```
+### `ABOUT`
 
 <br>
 
-<div align="center">
+**Full Stack Software Engineer focused on building modern web applications.**
 
-## `02 — MY STACK`
+I enjoy turning ideas into polished products — from interfaces and APIs  
+to databases, authentication and everything in between.
 
 <br>
 
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap" />
-
-<br><br>
-
-### BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python" />
-
-<br><br>
-
-### DATABASE
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
-
-<br><br>
-
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel" />
-
-<br><br>
-
-`REST APIs` · `Authentication` · `RBAC` · `API Integration` · `Performance` · `Deployment`
+`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js`
 
 </div>
 
@@ -87,115 +47,21 @@ TypeScript, React, Next.js, Node.js and PostgreSQL.
 
 <div align="center">
 
-## `03 — THINGS I'VE BUILT`
+### `TECHNOLOGY`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,laravel,php,python,postgres,mysql,supabase,tailwind,git,github&perline=8" />
+
+<br><br>
+
+<sub>
+
+Frontend · Backend · Databases · REST APIs · Authentication · RBAC · Performance · Deployment
+
+</sub>
 
 </div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>⚡ TASKFLOW</h3>
-
-<b>Advanced Task Management System</b>
-
-<br><br>
-
-A full-stack productivity platform built around organizations, projects, workflows and team collaboration.
-
-<br><br>
-
-<b>STACK</b>
-
-<br>
-
-`React` `Laravel` `MySQL`
-
-<br><br>
-
-Authentication · RBAC · Organizations · Projects · Tasks · Activity Tracking · REST APIs · Caching
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>✦ GENAI STUDIO</h3>
-
-<b>AI-Powered Content SaaS</b>
-
-<br><br>
-
-A modern SaaS application for creating social content and descriptions using AI-powered workflows.
-
-<br><br>
-
-<b>STACK</b>
-
-<br>
-
-`Next.js` `TypeScript` `Supabase` `AI`
-
-<br><br>
-
-AI Generation · SaaS Architecture · API Integration · Content Workflows · Responsive UI
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>◈ COMMERCE</h3>
-
-<b>E-Commerce Platform</b>
-
-<br><br>
-
-A complete commerce experience with customer-facing functionality and an administrative system.
-
-<br><br>
-
-<b>STACK</b>
-
-<br>
-
-`Laravel` `MySQL`
-
-<br><br>
-
-Products · Admin Panel · Customer Workflows · Backend Systems · Database Operations
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>▣ BOOKBASE</h3>
-
-<b>Book & Course Management</b>
-
-<br><br>
-
-A management platform designed around streamlined operations and user administration.
-
-<br><br>
-
-<b>STACK</b>
-
-<br>
-
-`Python` `Flask`
-
-<br><br>
-
-Management Workflows · User Administration · Backend Logic · Database Integration
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
@@ -203,18 +69,28 @@ Management Workflows · User Administration · Backend Logic · Database Integra
 
 <div align="center">
 
-## `04 — GITHUB`
+### `GITHUB`
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiteshkacha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" width="49%" />
+<a href="https://github.com/hiteshkacha">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkacha&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="42%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hiteshkacha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=111111&text_color=555555&icon_color=111111" />
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/hiteshkacha">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkacha&layout=compact&hide_border=true&langs_count=7&theme=transparent&title_color=111111&text_color=555555" />
+
+</a>
 
 <br><br>
 
 <a href="https://github.com/hiteshkacha?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -225,28 +101,20 @@ Management Workflows · User Administration · Backend Logic · Database Integra
 
 <div align="center">
 
-## `05 — CONNECT`
-
-<br>
-
-<a href="https://github.com/hiteshkacha">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-&nbsp;
-
 <a href="https://www.linkedin.com/in/hitesh-kacha/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-### BUILD. BREAK. LEARN. REPEAT.
+<sub>
 
-<br>
+<b>Build something worth remembering.</b>
 
-<sub>© 2026 Hitesh Kacha</sub>
+</sub>
 
 <br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1c1c1c,100:0f0f0f" width="100%"/>
 
 </div>
