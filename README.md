@@ -1,118 +1,83 @@
 <div align="center">
 
+<br>
+
 # HITESH KACHA
 
-### FULL STACK SOFTWARE ENGINEER
+### `FULL STACK SOFTWARE ENGINEER`
 
-**Building modern, scalable & production-ready web experiences.**
+**Crafting modern web experiences with code, design & curiosity.**
 
 <br>
 
 <a href="https://github.com/hiteshkacha">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/hitesh-kacha/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=hiteshkacha&label=PROFILE%20VIEWS&color=111111&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=hiteshkacha&label=VISITORS&color=000000&style=flat-square" />
+
+<br><br>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-### `01 / THE BUILDER`
+## `01 — ABOUT`
 
 </div>
 
-I build **modern full-stack web applications** with a focus on clean interfaces, solid backend architecture, and reliable user experiences.
+```text
+I turn ideas into functional digital products.
 
-My main ecosystem revolves around **JavaScript & TypeScript**, with **React, Next.js, Node.js, PostgreSQL and Laravel** across the stack.
+Full-stack developer focused on modern JavaScript,
+clean architecture, thoughtful interfaces and
+building things that actually ship.
 
-Currently exploring deeper into **advanced JavaScript, DSA, system design, scalable backend architecture and production deployment**.
-
-<br>
-
----
-
-<div align="center">
-
-### `02 / CURRENTLY BUILDING`
-
-</div>
-
-```text id="as91ab"
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   BUILDING                                                     │
-│                                                                 │
-│   → Modern full-stack applications                              │
-│   → Next.js + TypeScript systems                                │
-│   → Node.js backend architecture                                │
-│   → PostgreSQL-powered applications                             │
-│   → AI-powered SaaS products                                    │
-│                                                                 │
-│   DEEP DIVING                                                  │
-│                                                                 │
-│   → Advanced JavaScript                                         │
-│   → Data Structures & Algorithms                                │
-│   → System Design                                                │
-│   → Production deployment & architecture                         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+Currently deepening my craft across JavaScript,
+TypeScript, React, Next.js, Node.js and PostgreSQL.
 ```
 
 <br>
 
----
-
 <div align="center">
 
-### `03 / TECH ARSENAL`
+## `02 — MY STACK`
 
-</div>
+<br>
 
-#### `LANGUAGES`
+### FRONTEND
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap" />
 
-#### `FRONTEND`
+<br><br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
+### BACKEND
 
-#### `BACKEND`
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
-</p>
+<br><br>
 
-#### `DATABASES`
+### DATABASE
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
-</p>
 
-#### `TOOLS & ENGINEERING`
+<br><br>
 
-<p align="center">
+### TOOLS
+
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel" />
-</p>
 
-<br>
+<br><br>
 
-<div align="center">
-
-`REST APIs` · `Authentication` · `RBAC` · `API Integration` · `Performance` · `Responsive UI` · `Deployment`
+`REST APIs` · `Authentication` · `RBAC` · `API Integration` · `Performance` · `Deployment`
 
 </div>
 
@@ -122,111 +87,113 @@ Currently exploring deeper into **advanced JavaScript, DSA, system design, scala
 
 <div align="center">
 
-### `04 / SELECTED WORK`
+## `03 — THINGS I'VE BUILT`
 
 </div>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-## ⚡ TASKFLOW
+<h3>⚡ TASKFLOW</h3>
 
-### Advanced Task Management System
+<b>Advanced Task Management System</b>
 
-A full-stack task management platform built around organizations, projects, workflows and team productivity.
+<br><br>
 
-**Stack**
+A full-stack productivity platform built around organizations, projects, workflows and team collaboration.
 
-`React.js` `Laravel` `MySQL`
+<br><br>
 
-**Features**
+<b>STACK</b>
 
-- Authentication
-- Role-based access control
-- Organization management
-- Project workflows
-- Task assignment
-- Priority & status management
-- Filtering & pagination
-- Activity tracking
-- REST APIs
-- Validation
-- Database indexing
-- Caching
+<br>
+
+`React` `Laravel` `MySQL`
+
+<br><br>
+
+Authentication · RBAC · Organizations · Projects · Tasks · Activity Tracking · REST APIs · Caching
 
 </td>
 
 <td width="50%" valign="top">
 
-## ✦ GENAI STUDIO
+<h3>✦ GENAI STUDIO</h3>
 
-### AI-Powered Content SaaS
+<b>AI-Powered Content SaaS</b>
 
-A modern SaaS application for AI-assisted content and description generation.
+<br><br>
 
-**Stack**
+A modern SaaS application for creating social content and descriptions using AI-powered workflows.
+
+<br><br>
+
+<b>STACK</b>
+
+<br>
 
 `Next.js` `TypeScript` `Supabase` `AI`
 
-**Focus**
+<br><br>
 
-- AI-powered generation
-- SaaS architecture
-- Content workflows
-- Reusable components
-- API integration
-- Database-backed systems
-- Responsive product UI
+AI Generation · SaaS Architecture · API Integration · Content Workflows · Responsive UI
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## ◈ COMMERCE
+<h3>◈ COMMERCE</h3>
 
-### E-Commerce Platform
+<b>E-Commerce Platform</b>
 
-A complete e-commerce application combining customer-facing experiences with an administrative system.
+<br><br>
 
-**Stack**
+A complete commerce experience with customer-facing functionality and an administrative system.
+
+<br><br>
+
+<b>STACK</b>
+
+<br>
 
 `Laravel` `MySQL`
 
-**Focus**
+<br><br>
 
-- Product management
-- Customer workflows
-- Administrative panel
-- Backend architecture
-- Database operations
-- Responsive interfaces
+Products · Admin Panel · Customer Workflows · Backend Systems · Database Operations
 
 </td>
 
 <td width="50%" valign="top">
 
-## ▣ BOOKBASE
+<h3>▣ BOOKBASE</h3>
 
-### Book & Course Management System
+<b>Book & Course Management</b>
 
-A management platform designed to streamline operational workflows and user administration.
+<br><br>
 
-**Stack**
+A management platform designed around streamlined operations and user administration.
+
+<br><br>
+
+<b>STACK</b>
+
+<br>
 
 `Python` `Flask`
 
-**Focus**
+<br><br>
 
-- Administrative workflows
-- User management
-- Backend logic
-- Database integration
-- Operational tooling
+Management Workflows · User Administration · Backend Logic · Database Integration
 
 </td>
+
 </tr>
 </table>
 
@@ -236,64 +203,19 @@ A management platform designed to streamline operational workflows and user admi
 
 <div align="center">
 
-### `05 / ENGINEERING PHILOSOPHY`
+## `04 — GITHUB`
 
 <br>
 
-> **Build things that work.**
->
-> **Build them so they can grow.**
->
-> **Then make them feel great to use.**
+<img src="https://github-readme-stats.vercel.app/api?username=hiteshkacha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" width="49%" />
 
-</div>
-
-<br>
-
-```text id="vrc8cx"
-                    PRODUCT
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ USER EXPERIENCE  │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │    FRONTEND     │
-              │ React / Next.js │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │    API LAYER    │
-              │ Node / Laravel  │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   DATA LAYER    │
-              │ PostgreSQL/MySQL│
-              └─────────────────┘
-```
-
-<br>
-
----
-
-<div align="center">
-
-### `06 / GITHUB ACTIVITY`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hiteshkacha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkacha&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkacha&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="42%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=hiteshkacha&hide_border=true&theme=transparent" />
+<a href="https://github.com/hiteshkacha?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -303,63 +225,28 @@ A management platform designed to streamline operational workflows and user admi
 
 <div align="center">
 
-### `07 / CONTRIBUTION GRAPH`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshkacha&hide_border=true&area=true&theme=github-compact" width="100%" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### `08 / THE STACK I THINK IN`
-
-</div>
-
-```text id="z0o6ns"
-Frontend       →   React / Next.js / TypeScript
-Backend        →   Node.js / Express / Laravel
-Database       →   PostgreSQL / MySQL / Supabase
-Architecture   →   REST APIs / Authentication / RBAC
-UI             →   Tailwind / Bootstrap / Responsive Design
-Engineering    →   Git / GitHub / Deployment / Performance
-```
-
-<br>
-
----
-
-<div align="center">
-
-### `09 / LET'S BUILD`
-
-<br>
-
-# SOMETHING GREAT.
-
-### Open to interesting engineering problems, products & opportunities.
+## `05 — CONNECT`
 
 <br>
 
 <a href="https://github.com/hiteshkacha">
-<img src="https://img.shields.io/badge/EXPLORE_MY_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/hitesh-kacha/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
 
-```text id="kf5ehm"
-JavaScript · TypeScript · React · Next.js · Node.js · Laravel · PostgreSQL
-```
+### BUILD. BREAK. LEARN. REPEAT.
 
 <br>
 
-<sub>Designed & engineered by Hitesh Kacha · 2026</sub>
+<sub>© 2026 Hitesh Kacha</sub>
+
+<br><br>
 
 </div>
