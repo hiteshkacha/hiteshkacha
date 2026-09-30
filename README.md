@@ -7,9 +7,6 @@
 <a href="https://github.com/hiteshkacha">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=ffffff"/>
 </a>
-
-&nbsp;
-
 <a href="https://www.linkedin.com/in/hitesh-kacha/">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=ffffff"/>
 </a>
